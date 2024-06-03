@@ -1,0 +1,1 @@
+String TTS_INPUT = "With AI in place, one-man companies are now a reality, which is why Indie Hacking suddenly appeared this year. Now, a Senior Engineer can have five times the output compared to just a few years ago";
